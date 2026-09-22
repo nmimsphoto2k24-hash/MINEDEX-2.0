@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "MINEDEX 2.0 release"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/MINEDEX-2.0.git
+git remote add origin https://github.com/nmimsphoto2k24-hash/MINEDEX-2.0.git
 git push -u origin main
